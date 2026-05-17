@@ -22,7 +22,7 @@
 // 5. Paste your SHEET_ID below:
 // ============================================================
 
-export const GOOGLE_SHEET_ID = "YOUR_GOOGLE_SHEET_ID_HERE";
+export const GOOGLE_SHEET_ID = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSNAWEYnMNzfamIxhm2cypjqmOuML2dviD8AX-Gp0inUqDQ0ZYZYTNofSJ0R8UaOekSDekVYgM3u3va/pub?output=csv";
 
 // ============================================================
 // Column mapping (must match Row 1 headers exactly)
